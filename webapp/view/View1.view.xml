@@ -1,0 +1,7 @@
+<mvc:View controllerName="dmsui.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <Button id="_IDGenButton" text="Trigger" press="onTrigger"/>
+    </Page>
+</mvc:View>
